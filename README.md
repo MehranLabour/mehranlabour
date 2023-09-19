@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hey there! 👋<br><br>I'm Mehran Kordavani, a .NET developer<br><br>🌱 Open to collaborating on intriguing .NET open source projects.<br><br>Fun facts:<br>- 🏃 Runner at heart, coder by day.<br>- 🎮 Dota 2 enthusiast in my downtime.<br>- 📷 Love to take photos of nature.
 <br>Let's connect and code together! 🚀
 
